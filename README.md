@@ -1,2 +1,11 @@
-# SistemaGestionLibrosElectronicos
-Proyecto desarrollado en Python para la gestión de libros electrónicos utilizando Programación Orientada a Objetos y Programación Funcional.
+# Sistema de Gestión de Libros Electrónicos
+
+Proyecto desarrollado para la asignatura de Programación Orientada a Objetos.
+
+## Lenguaje
+
+Python
+
+## Autor
+
+Michael Steve Villacres Ortiz
